@@ -47,6 +47,9 @@ Predicted customer churn using historical data to guide management actions and i
 ### 🛒 Retail Sales Data Analysis
 Analyzed retail sales to uncover trends and actionable insights that inform operational and commercial decisions.
 
+### 🛍 Online Purchase Exploratory Data Analysis
+Performed exploratory data analysis on an online purchase dataset to examine pricing patterns, product categories, payment methods, and seller ratings, generating visual insights to better understand transaction behavior. 
+
 ---
 
 ## 🎓 Background
