@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pedro Tamani
 
-Economist with experience in business operations, decision-making, and managing real-world business environments.  
-I strengthen analytical skills to support **strategic business decisions**, not just to generate reports.
+Economist with hands-on experience in business operations and decision-making.
+I use analytical tools and structured thinking to understand business performance and support better strategic and operational decisions.
 
 ---
 
@@ -21,22 +21,29 @@ I combine **business judgment, operational experience, and applied analysis** to
 
 ## 💼 Experience Highlights
 
-- **Managed and scaled small businesses** for over 7 years, leading teams and operations with measurable impact.  
+- **Managed and scaled small businesses** for over 10 years, leading teams and operations with measurable impact.  
 - **Designed operational and financial structures** that improve efficiency and decision-making.  
 - **Applied data analysis** (Python, Excel, Power BI) as a support tool, not the main focus.  
 
 ---
 
-## 🛠 Tools & Technologies
+## 🧠 Core Strengths
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Power BI**  
-- **Excel (Advanced)**  
-- Data Cleaning & Exploratory Analysis  
+- Business Operations Analysis  
+- Commercial Performance Analysis  
+- Exploratory Data Analysis (EDA)  
+- Structuring information for decision-making  
+- Translating data into actionable business insights  
+
+## 🛠 Analytical Tools
+
+**Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+**Power BI**  
+**Excel (Advanced)**
 
 ---
 
-##📊 Portfolio Projects
+## 📊 Portfolio Projects
 
 ### 🛒 Retail Sales Data Analysis  
 https://github.com/pedrotamani/01-retail-sales-analysis
@@ -70,6 +77,14 @@ Exploratory analysis of retail sales data to identify revenue patterns, category
 - **Economist** – Experience managing business operations and teams  
 - **Business Operations & Commercial Development** – Real-world decision-making  
 - Certified training in **Data Science and Analytics**  
+
+---
+
+## 🚀 Currently Strengthening
+
+- Applying data analysis to real business problems  
+- Improving business storytelling with data visualizations  
+- Building structured analytical frameworks for operational decisions
 
 ---
 
