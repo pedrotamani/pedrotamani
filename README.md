@@ -36,19 +36,32 @@ I combine **business judgment, operational experience, and applied analysis** to
 
 ---
 
-## 📊 Portfolio Projects
+##📊 Portfolio Projects
 
-### 📡 Telecom Customer Churn Analysis
-Explored customer churn data to identify key factors affecting retention and support business decisions.
+### 🛒 Retail Sales Data Analysis  
+https://github.com/pedrotamani/01-retail-sales-analysis
 
-### 🤖 Telecom Customer Churn Prediction
-Predicted customer churn using historical data to guide management actions and improve retention strategies.
+Analyzed retail sales data to uncover sales patterns, product performance, and operational insights that support better commercial decision-making.
 
-### 🛒 Retail Sales Data Analysis
-Analyzed retail sales to uncover trends and actionable insights that inform operational and commercial decisions.
+### 📡 Telecom Customer Churn Analysis  
+https://github.com/pedrotamani/02-customer-churn-analysis
 
-### 🛍 Online Purchase Exploratory Data Analysis
-Performed exploratory data analysis on an online purchase dataset to examine pricing patterns, product categories, payment methods, and seller ratings, generating visual insights to better understand transaction behavior. 
+Explored customer churn data to identify key factors affecting retention and support business decisions aimed at reducing customer attrition.
+
+### 🤖 Telecom Customer Churn Prediction  
+https://github.com/pedrotamani/03-churn-prediction-model
+
+Built a machine learning model to predict customer churn using historical data, helping businesses anticipate churn risk and guide retention strategies.
+
+### 🛍 Online Purchase Exploratory Data Analysis  
+https://github.com/pedrotamani/04-online-purchase-analysis
+
+Performed exploratory data analysis on an online purchase dataset to examine pricing patterns, product categories, payment methods, and seller ratings, generating visual insights to better understand transaction behavior.
+
+### 📊 Sales Performance Analysis  
+https://github.com/pedrotamani/05-sales-performance-analysis
+
+Exploratory analysis of retail sales data to identify revenue patterns, category performance, regional trends, and key drivers of profitability. The project focuses on translating sales data into business insights that support operational and commercial decisions.
 
 ---
 
